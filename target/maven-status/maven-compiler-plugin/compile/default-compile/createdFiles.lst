@@ -1,0 +1,9 @@
+entity\User.class
+dao\UserDaoImpl.class
+servlet\DependencyLoaderListener.class
+servlet\UserServlet.class
+factories\DaoFactory.class
+org\example\App.class
+dao\UserDao.class
+factories\ConnectionManager.class
+servlet\PingServlet.class
